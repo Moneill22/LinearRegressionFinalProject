@@ -1,0 +1,3 @@
+# LinearRegressionFinalProject
+
+This project contains the code used for the final project of my Linear Regression course. My group pulled data from 365 Division I College Basketball teams created a linear regression model with wins are a response variable and offensive and defensive efficiency ratings as predictor variables. This repository contains all of the code used to build plots and graphs, as well as make calculations needed to conduct various F-tests and t-tests. These tests were used to test whether there was a linear association between the covariates and the response, whether or not there were interaction effects present between the variables, and which variable was responsible for a higher percentage of the model's variance.
